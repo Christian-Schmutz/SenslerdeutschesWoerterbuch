@@ -54,16 +54,6 @@ export class SearchService {
                 },
               },
             },
-            {
-              match: {
-                'term.phonetic': {
-                  query: query,
-                  operator: 'and',
-                  fuzziness: 'AUTO',
-                  boost: 2,
-                },
-              },
-            },
             // Fuzzy matchword with asciifolding (e.g. ü,ǜ,ù,... mapping to u)
             {
               fuzzy: {
