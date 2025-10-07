@@ -2,7 +2,7 @@
 
 The goal of this project is to create a digital version of the popular book. It is not intended to replace the print version but rather to offer additional features and help to print future versions.
 
-Ja, as weri passend ù witzig di ganzi Dokumentation ùf Seislerdütsch z mache. Aber fǜr i au Richtige offe z syy, isch Englisch awä glych di besseri Wau. 😉
+Ja, as wee passend ù witzig di ganzi Dokumentation ùf Seislerdütsch z mache. Aber fǜr i au Richtige offe z syy, isch Englisch awä glych di besseri Waau. 😉
 
 ## Quick start
 
@@ -60,3 +60,4 @@ az containerapp update \
   --yaml containerapp-deploy.yaml
 
 ```
+
